@@ -1,5 +1,5 @@
-## author SADIA MOBASSHIRA
-## Department of CSE
+## @Author SADIA MOBASSHIRA
+## @Department of CSE
 ## @ID: 21-45727-3
 ## @American International University - Bangladesh
 
