@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"student_mgmt_sadia"},
+{"type":"table","name":"staffs","database":"student_mgmt_sadia","data":
+[
+
+]
+}
+,{"type":"table","name":"students","database":"student_mgmt_sadia","data":
+[
+{"USERID":"1","STUDENTNAME":"NAME ","STUDENTFATHERNAME":"NAME C","STUDENTMOTHERNAME":"NAME D","STUDENTEMAIL":"NAME@NAME.COM","STUDENTPHONE":"123456789","STUDENTFATHERPHONE":"123045678","STUDENTPERMANENTADDRESS":"ADRRESS PERMANENT","STUDENTPRESENTADDRESS":"ADDRESS PRESENT","STUDENTGENDER":"MALE","STUDENTNID":"120123456789","STUDENTCOURSE":"CSE","STUDENTSSC":"4.50","STUDENTHSC":"5.00"}
+]
+}
+,{"type":"table","name":"superuser","database":"student_mgmt_sadia","data":
+[
+{"USERID":"101","USEREMAIL":"101","PASSWORD":"101","USERNAME":"SUPER USER"}
+]
+}
+]
